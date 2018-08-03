@@ -1,0 +1,14 @@
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.h
+
+# Plotly
+*.html
+
+out/
+data/
+results/
